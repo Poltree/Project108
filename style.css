@@ -1,0 +1,25 @@
+#Note{
+    color:lightslategrey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#toplabel{
+    color: mediumvioletred;
+    font-family:cursive;
+}
+#h4s{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}
+#Mainstuff{
+    background-color:rgb(192,192,192);
+    padding-bottom: 375px;
+    font-family: 'Ephesis', cursive;
+}
+#footer{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    font-family: cursive;
+    text-shadow: dimgray 5px 5px 5px;
+font-size: x-large;
+}
